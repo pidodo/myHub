@@ -1,0 +1,5 @@
+<appendix id="AppendixA"><title>Installing MINIX3</title>
+<para>
+This appendix explains how to install MINIX 3. A complete MINIX 3 installation requires a Pentium (or compatible) with at least 16-MB of RAM, 1 GB of free disk space, an IDE CD-ROM and an IDE hard disk. A minimal installation (without the commands sources) requires 8 MB RAM and 50 MB of disk space. Serial ATA, USB, and SCSI disks are not supported at present. For USB CD-ROMS, see the Website: www.minix3.org.
+</para>
+</appendix>

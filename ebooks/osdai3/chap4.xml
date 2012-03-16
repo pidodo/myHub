@@ -1,0 +1,5 @@
+<chapter id="Chapter4"><title>Memory Management</title>
+<para>
+Memory is an important resource that must be carefully managed. While the average home computer nowadays has two thousand times as much memory as the IBM 7094 (the largest computer in the world in the early 1960s), programs and the data they are expected to handle have also grown tremendously. To paraphrase Parkinson's law, "Programs and their data expand to fill the memory available to hold them." In this chapter we will study how operating systems manage memory.
+</para>
+</chapter>

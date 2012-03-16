@@ -1,0 +1,5 @@
+<chapter id="Chapter5"><title>File Systems</title>
+<para>
+All computer applications need to store and retrieve information. While a process is running, it can store a limited amount of information within its own address space. However, the storage capacity is restricted to the size of the virtual address space. For some applications this size is adequate, but for others, such as airline reservations, banking, or corporate record keeping, it is far too small.
+</para>
+</chapter>

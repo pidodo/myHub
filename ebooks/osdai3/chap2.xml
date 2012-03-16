@@ -1,0 +1,5 @@
+<chapter id="Chapter2"><title>Processes</title>
+<para>
+We are now about to embark on a detailed study of how operating systems, in general, and MINIX 3, in particular, are designed and constructed. The most central concept in any operating system is the process: an abstraction of a running program. Everything else hinges on this concept, and it is important that the operating system designer (and student) understand this concept well.
+</para>
+</chapter>

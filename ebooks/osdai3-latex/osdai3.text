@@ -1,0 +1,9 @@
+\documentclass[a4paper,11pt]{book}
+
+\pagestyle{headings}
+
+\tableofcontents
+
+\begin{document}
+
+\end{document}

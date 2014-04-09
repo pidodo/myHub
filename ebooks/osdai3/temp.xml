@@ -2,11 +2,13 @@
 <screenshot>
 <mediaobject>
 <imageobject>
-<imagedata align="center" fileref=".jpg" format="jpg">
+<imagedata align="center" fileref="images/.jpg" format="jpg">
 </imagedata>
 </imageobject>
 <caption>
-<para></para>
+<para>
+
+</para>
 </caption>
 </mediaobject>
 </screenshot>
